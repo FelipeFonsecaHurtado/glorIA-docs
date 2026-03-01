@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "GlorIA",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://www.gloriagent.ai/"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://app.gloriagent.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.gloriagent.ai/"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -372,10 +372,9 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://app.gloriagent.ai//api/",
     "auth": {
       "method": "bearer"
     }
